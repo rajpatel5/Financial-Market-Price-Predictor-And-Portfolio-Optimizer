@@ -1,6 +1,6 @@
 # Market-Price-Predictor-Portfolio-Optimizer
 
-A market price predictor and portfolio optimizer which can be used in the stock and Forex markets by traders to grow their portfolios. The portfolio optimizer uses the Sharpe ratio to determine the maximum return yielding asset allocation and also the minimum volatility asset allocation. Then displays it on a graph. The market price predictor uses machine learning to attempt to quickly and accurately predict the general trend of the markets for a month's time. This program is able to predict the prices with 60%-65% of the time, therefore theoretically it can help make a trader good money in the markets.
+A market price predictor and portfolio optimizer which can be used in the stock and Forex markets by traders to grow their portfolios. The portfolio optimizer uses the Sharpe ratio to determine the maximum return yielding asset allocation and also the minimum volatility asset allocation. Then displays it on a graph. The market price predictor uses machine learning to attempt to quickly and accurately predict the general trend of the markets for a month's time. This program is able to predict the price trends with 60%-65% accuracy, therefore theoretically it can help make a trader good money in the markets.
 
 The program is coded in Python using Pycharm. It uses the matplot library to plot the results onto a graph, and the tensorflow library to
 use machine learning to predict the prices. The pandas library is used to store and retrieve information from a dataframe. The price
