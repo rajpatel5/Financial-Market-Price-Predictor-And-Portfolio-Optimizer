@@ -8,8 +8,10 @@ predictor makes good use of recurrent neural networks and linear regression to p
 in a csv file which are then later used to plot them on a graph. The program aims to focus on maximum efficiency and speed as the markets are rapidly changing.
 
 
-<p float="left">
+<p align="center" float="left">
   <img src="https://user-images.githubusercontent.com/43008021/58757710-f8020980-84de-11e9-8257-302d0601763d.png" width="350" hspace="20"/>
   <img src="https://user-images.githubusercontent.com/43008021/58757721-40b9c280-84df-11e9-9690-5e4a81af50a8.png" width="350" hspace="20"/>
+  <br/>
+  <br/>
   <img src="https://user-images.githubusercontent.com/43008021/58757717-25e74e00-84df-11e9-82af-d7ab3951cc83.PNG" width="300" hspace="20"/>
 </p>
