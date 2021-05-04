@@ -1,4 +1,4 @@
-# Financial-Market-Price-Predictor-Portfolio-Optimizer
+# Financial-Market-Price-Predictor-and-Portfolio-Optimizer
 
 A market price predictor and portfolio optimizer which can be used in the stock and Forex markets by traders to grow their portfolios. The portfolio optimizer uses the Sharpe ratio to determine the maximum return yielding asset allocation and also the minimum volatility asset allocation. Then displays it on a graph. The market price predictor uses machine learning to attempt to quickly and accurately predict the general trend of the markets for a month's time. This program is able to predict the price trends with 55%-65% accuracy, therefore theoretically and potentially through a practical trial it can help put net profits into a trader's account.
 
